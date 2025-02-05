@@ -8,7 +8,7 @@ Made with o3 mini
 The goal is to make a survivor game
 Using p5.js framework
 
-GameURL : [https://filtergame.github.io/DrawJokerJS/](https://filtergame.github.io/ShootoutSurvivorJS-EN/
+GameURL : [[https://filtergame.github.io/DrawJokerJS/](https://filtergame.github.io/ShootoutSurvivorJS-EN/)](https://filtergame.github.io/ShootoutSurvivorJS-EN/
 )
 
 順便廣告同團隊的非AI遊戲(X
